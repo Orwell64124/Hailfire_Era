@@ -3,7 +3,7 @@ Hailfire Era
 
 Description
 --------------
-"Hailfire Era" is a multiplayer add-on campaign for the game Battle for Wesnoth. It mainly adds an extra game mechanic "climate" in addition to alignment and terrain, for most units in the Default Era plus three new multiplayer factions inlcuding two heavily modified versions of older factions. The ultimate goal is featuring a new game mechanic that other add-on authors can rewrite and employ as desired. 
+"Hailfire Era" is a multiplayer add-on campaign for the game Battle for Wesnoth. It mainly adds an extra game mechanic "climate" in addition to alignment and terrain, for most units in the Default Era plus four new multiplayer factions. The ultimate goal is featuring a new game mechanic that other add-on authors can rewrite and employ as desired. 
 
 Other information
 --------------
