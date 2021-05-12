@@ -1,0 +1,12 @@
+title="Hailfire Balance Era"
+type="era"
+icon=misc/laurel.png
+version="1.0.0"
+author="time_area"
+passphrase=
+description= _ "Factions in this era create magic zones to tear the weather itself apart. Along with terrain and time of day, units are affected by temperature, shown for every single unit near alignment. "Arctic" units are strongest in bitter cold, "Tropical" units grow strongest in extreme heat and "Frontier" units fight similarly in all weather. Most magic units can change the weather, but they must attack the enemy or occupy a village to do so. Non-magic units cannot ever change weather. Information on how weather affects units is displayed near alignment."
+email=donaldphillip01@gmail.com
+language="en_GB"
+[feedback]
+    topic_id=
+[/feedback]
