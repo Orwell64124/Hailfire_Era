@@ -7,7 +7,7 @@ Description
 
 Other information
 --------------
-The author of this campaign is time_area but the format for this readme was made by Dugi, creator of Legend of the Invincibles (spelled as Dugy on GitHub). The address of time_area's git repository (github page for Hailfire Era) is https://github.com/Dugy/Legend_of_the_Invincibles. The forum thread discussing Hailfire Era is at https://forums.wesnoth.org/viewtopic.php?f=8&t=32384. This is the best place to discuss anything related to the Hailfire Era.
+The author of this campaign is time_area but the format for this readme was made by Dugi, creator of Legend of the Invincibles (spelled as Dugy on GitHub). The address of time_area's git repository (github page for Hailfire Era) is https://github.com/Orwell64124/Hailfire_Era. The forum thread discussing Hailfire Era is at https://forums.wesnoth.org/viewtopic.php?f=8&t=32384. This is the best place to discuss anything related to the Hailfire Era.
 
 Usage
 --------------
